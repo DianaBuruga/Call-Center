@@ -1,5 +1,5 @@
 # Call-Center
-Un program pentru un call-center care manageriează problemele clienților și le rezolvă în ordinea primirii lor. Problemele se identifică prin numărul de înregistrare primit.
+Un program pentru un call-center care manageriază problemele clienților și le rezolvă în ordinea primirii lor. Problemele se identifică prin numărul de înregistrare primit.
 
 În funcție de tasta apăsată, programul funcționează astfel:
 Tasta 1, puteți adăuga o nouă problemă a clienților în coadă.
